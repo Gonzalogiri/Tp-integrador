@@ -1,4 +1,4 @@
 # Tp-integrador
-Trabajo practico de Gonzalo Giri Petray
-Un negocio de alquiler de canchas de fútbol necesita mejorar su gestión debido a la alta demanda. Para organizar el servicio, necesitan un sistema de reservas donde puedan almacenar el nombre, apellido, DNI, teléfono, mail y fecha de alta de sus clientes. Es necesario registrar los pagos realizados por los clientes, incluyendo los montos, fechas de pago, método de pago y la reserva asociada. Sumado a esto, en el sistema se debe especificar la categoría de la cancha el sector, piso y precio por hora. Un mismo cliente puede reservar varias canchas u horas. Además el negocio cuenta con promociones dependiendo del método de pago o el horario. Cada promoción debe incluir el nombre, descuento, método de pago, horario de inicio, horario de finalización, fecha de inicio y fecha de fin. Una promoción solo puede ser aplicada en una sola reserva
-
+Trabajo practico de Gonzalo Giri Petray.
+Un negocio de alquiler de canchas de fútbol necesita mejorar su gestión debido a la alta demanda. Para organizar el servicio, necesitan un sistema de reservas donde puedan almacenar el nombre, apellido, DNI, teléfono, mail y fecha de alta de sus clientes. Es necesario registrar los pagos realizados por los clientes, incluyendo los montos, fechas de pago, método de pago y la reserva asociada. 
+En este repositorio podra encontrar Video de presentacion, PPT del trabajo, sentencias SQL, diccionario de datos y diagramas de tablas.
